@@ -1,0 +1,34 @@
+{
+    "master-use-flags": {
+        "title": "Master Override",
+        "description": "Toggle this off to use Launch Darkly instead."
+    },
+    "enable-payment-settings": {
+        "title": "Enable Payment Settings",
+        "description": "Enables the payment settings interface (applies to nav item, routes and components)."
+    },
+    "enable-payment-settings-dashboard": {
+        "title": "Enable Payment Settings Dashboard",
+        "description": "Enables the payment settings dashboard interface."
+    },
+    "enable-billing": {
+        "title": "Enable Billing",
+        "description": "Enables the billing interface."
+    },
+    "enable-reports": {
+        "title": "Enable Reports",
+        "description": "Enables the reports nav item, route and page."
+    },
+    "enable-intercom": {
+        "title": "Enable Intercom",
+        "description": "Enables the Intercom support tool widget."
+    },
+    "enable-payto-only": {
+        "title": "Enable PayTo Only",
+        "description": "Enables the PayTo only environment for PayTo only features."
+    },
+    "enable-kratos-login": {
+        "title": "Enable Kratos Login",
+        "description": "Enables Ory Kratos identity login."
+    }
+}
