@@ -34,5 +34,9 @@
     "enable-kratos-login": {
         "title": "Enable Kratos Login",
         "description": "Enables Ory Kratos identity login."
+    },
+    "enable-assisted-onboarding": {
+        "title": "Enable Assisted Onboarding",
+        "description": "Enables assisted onboarding prompts."
     }
 }
