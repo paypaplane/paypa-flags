@@ -11,9 +11,9 @@
         "title": "Enable Payment Settings Dashboard",
         "description": "Enables the payment settings dashboard interface."
     },
-    "enable-signup": {
-        "title": "Enable Signup",
-        "description": "Enables the signup route and page."
+    "enable-self-registration": {
+        "title": "Enable Self Registration",
+        "description": "Enables self registration signup flow."
     },
     "enable-billing": {
         "title": "Enable Billing",
@@ -38,5 +38,9 @@
     "enable-assisted-onboarding": {
         "title": "Enable Assisted Onboarding",
         "description": "Enables assisted onboarding prompts."
+    },
+    "enable-unassisted-onboarding": {
+        "title": "Enable Unassisted Onboarding",
+        "description": "Enables unassisted onboarding flow."
     }
 }
