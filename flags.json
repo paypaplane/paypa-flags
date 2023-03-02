@@ -42,5 +42,9 @@
     "enable-unassisted-onboarding": {
         "title": "Enable Unassisted Onboarding",
         "description": "Enables unassisted onboarding flow."
+    },
+    "enable-toasty": {
+        "title": "Enable Mr Toasty 🍞",
+        "description": "Enables modern toast messages."
     }
 }
