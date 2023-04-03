@@ -50,5 +50,9 @@
     "enable-bpay-crn-generation": {
         "title": "Enable new BPay interface",
         "description": "Allow customers paying via BPay to generate CRNs on demand"
+    },
+    "enable-bpay-simulated-payment": {
+        "title": "Allow simulated BPay payments",
+        "description": "Strictly admin-only flag that lets us simulate BPay payments for testing"
     }
 }
