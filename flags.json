@@ -54,5 +54,9 @@
     "enable-bpay-simulated-payment": {
         "title": "Allow simulated BPay payments",
         "description": "Strictly admin-only flag that lets us simulate BPay payments for testing"
+    },
+    "enable-move-people": {
+        "title": "Move Users and Customers",
+        "description": "Allow Users and Customers to be moved between nodes (merchants)"
     }
 }
