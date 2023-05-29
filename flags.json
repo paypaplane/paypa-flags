@@ -15,10 +15,6 @@
         "title": "Enable Self Registration",
         "description": "Enables self registration signup flow."
     },
-    "enable-billing": {
-        "title": "Enable Billing",
-        "description": "Enables the billing interface."
-    },
     "enable-reports": {
         "title": "Enable Reports",
         "description": "Enables the reports nav item, route and page."
