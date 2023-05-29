@@ -11,10 +11,6 @@
         "title": "Enable Payment Settings Dashboard",
         "description": "Enables the payment settings dashboard interface."
     },
-    "enable-self-registration": {
-        "title": "Enable Self Registration",
-        "description": "Enables self registration signup flow."
-    },
     "enable-reports": {
         "title": "Enable Reports",
         "description": "Enables the reports nav item, route and page."
