@@ -15,10 +15,6 @@
         "title": "Enable Reports",
         "description": "Enables the reports nav item, route and page."
     },
-    "enable-intercom": {
-        "title": "Enable Intercom",
-        "description": "Enables the Intercom support tool widget."
-    },
     "enable-payto-only": {
         "title": "Enable PayTo Only",
         "description": "Enables the PayTo only environment for PayTo only features."
