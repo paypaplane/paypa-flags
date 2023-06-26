@@ -15,6 +15,10 @@
         "title": "Enable Reports",
         "description": "Enables the reports nav item, route and page."
     },
+    "enable-reports-v3": {
+        "title": "Enable Reports v3",
+        "description": "v3 updates to reports. Falls back to v2 then v1 in that order"
+    },
     "enable-payto-only": {
         "title": "Enable PayTo Only",
         "description": "Enables the PayTo only environment for PayTo only features."
