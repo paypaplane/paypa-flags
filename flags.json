@@ -54,5 +54,9 @@
     "enable-move-people": {
         "title": "Move Users and Customers",
         "description": "Allow Users and Customers to be moved between nodes (merchants)"
+    },
+    "enable-h2-transport": {
+        "title": "Enable H2 Transport",
+        "description": "Switch to H2 network traffic in place of Websockets"
     }
 }
