@@ -31,10 +31,6 @@
         "title": "Enable Kratos Prototype",
         "description": "Enables Ory Kratos Prototype for dev access."
     },
-    "enable-pp-staff-sso-login": {
-        "title": "Enable PP Staff SSO login 🛫🔓",
-        "description": "Add extra SSO Provider option at Login so Paypa Plane staff can login into other themes."
-    },
     "enable-assisted-onboarding": {
         "title": "Enable Assisted Onboarding",
         "description": "Enables assisted onboarding prompts."
