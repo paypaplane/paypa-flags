@@ -12,7 +12,7 @@
         "description": "Enables the payment settings dashboard interface."
     },
     "enable-reports": {
-        "title": "Enable Reports",
+        "title": "Enable Reports v2",
         "description": "Enables the reports nav item, route and page."
     },
     "enable-reports-v3": {
@@ -27,7 +27,7 @@
         "title": "Enable Kratos Login",
         "description": "Enables Ory Kratos identity login."
     },
-     "enable-kratos-prototype": {
+    "enable-kratos-prototype": {
         "title": "Enable Kratos Prototype",
         "description": "Enables Ory Kratos Prototype for dev access."
     },
