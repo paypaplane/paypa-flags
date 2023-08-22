@@ -54,5 +54,9 @@
     "enable-h2-transport": {
         "title": "Enable H2 Transport",
         "description": "Switch to H2 network traffic in place of Websockets"
+    },
+    "enable-self-registration-referrals": {
+        "title": "Allow signup referrals",
+        "description": "Allow self registration (a.k.a signup) referrals via /signup/_insert_referral_name_here_"
     }
 }
