@@ -54,5 +54,9 @@
     "enable-h2-transport": {
         "title": "Enable H2 Transport",
         "description": "Switch to H2 network traffic in place of Websockets"
+    },
+    "enable-assign-limited-access": {
+        "title": "Enable Limited Access Assignment",
+        "description": "Superadmins get an option to set user accounts to Limited Access (readonly)"
     }
 }
