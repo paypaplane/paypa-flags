@@ -58,5 +58,9 @@
     "enable-self-registration-referrals": {
         "title": "Allow signup referrals",
         "description": "Allow self registration (a.k.a signup) referrals via /signup/_insert_referral_name_here_"
+    },
+    "enable-assign-limited-access": {
+        "title": "Enable Limited Access Assignment",
+        "description": "Superadmins get an option to set user accounts to Limited Access (readonly)"
     }
 }
