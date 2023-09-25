@@ -11,13 +11,9 @@
         "title": "Enable Payment Settings Dashboard",
         "description": "Enables the payment settings dashboard interface."
     },
-    "enable-reports": {
-        "title": "Enable Reports v2",
-        "description": "Enables the reports nav item, route and page."
-    },
     "enable-reports-v3": {
         "title": "Enable Reports v3",
-        "description": "v3 updates to reports. Falls back to v2 then v1 in that order"
+        "description": "v3 version of reports. Falls back to v1."
     },
     "enable-payto-only": {
         "title": "Enable PayTo Only",
