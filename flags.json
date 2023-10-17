@@ -62,5 +62,9 @@
     "enable-assign-limited-access": {
         "title": "Enable Limited Access Assignment",
         "description": "Superadmins get an option to set user accounts to Limited Access (readonly)"
+    },
+    "enable-new-agreement-experience": {
+        "title": "Enable New Agreement Experience",
+        "description": "Enables the new agreement creation journey if Payto payment module exists"
     }
 }
