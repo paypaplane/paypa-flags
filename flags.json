@@ -66,5 +66,9 @@
     "enable-new-agreement-experience": {
         "title": "Enable New Agreement Experience",
         "description": "Enables the new agreement creation journey if Payto payment module exists"
+    },
+    "enable-live-proving": {
+        "title": "Enable Live Proving",
+        "description": "Enable the experience of a user with a live proving account."
     }
 }
