@@ -63,20 +63,12 @@
         "title": "Enable Limited Access Assignment",
         "description": "Superadmins get an option to set user accounts to Limited Access (readonly)"
     },
-    "enable-new-agreement-experience": {
-        "title": "Enable New Agreement Experience",
-        "description": "Enables the new agreement creation journey using the NPP payment request structure"
-    },
-    "enable-action-requests": {
-        "title": "Enable Action requests",
-        "description": "Currently works in conjunction with new agreement experience, allows adhoc payments and amendments to agreements"
+    "enable-new-agreement-flow": {
+        "title": "Enable New Agreement Flow",
+        "description": "Enables the NPP payment request structure and allows action requests like adhoc payments and agreement amendments"
     },
     "enable-live-proving": {
         "title": "Enable Live Proving",
         "description": "Enable the experience of a user with a live proving account."
     },
-    "enable-test-flag": {
-        "title": "Enable Test Flag",
-        "description": "Enable a test flag."
-    }
 }
