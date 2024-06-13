@@ -74,5 +74,9 @@
     "enable-live-proving": {
         "title": "Enable Live Proving",
         "description": "Enable the experience of a user with a live proving account."
+    },
+    "enable-test-flag": {
+        "title": "Enable Test Flag",
+        "description": "Enable a test flag."
     }
 }
