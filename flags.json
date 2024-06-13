@@ -65,7 +65,11 @@
     },
     "enable-new-agreement-experience": {
         "title": "Enable New Agreement Experience",
-        "description": "Enables the new agreement creation journey if Payto payment module exists"
+        "description": "Enables the new agreement creation journey using the NPP payment request structure"
+    },
+    "enable-action-requests": {
+        "title": "Enable Action requests",
+        "description": "Currently works in conjunction with new agreement experience, allows adhoc payments and amendments to agreements"
     },
     "enable-live-proving": {
         "title": "Enable Live Proving",
