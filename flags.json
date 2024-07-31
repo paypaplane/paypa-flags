@@ -67,6 +67,10 @@
         "title": "Enable New Agreement Flow",
         "description": "Enables the NPP payment request structure and allows action requests like adhoc payments and agreement amendments"
     },
+    "enable-new-payments": {
+        "title": "Enable New Payments",
+        "description": "Enables the new payments cards for Brian"
+    },
     "enable-live-proving": {
         "title": "Enable Live Proving",
         "description": "Enable the experience of a user with a live proving account."
