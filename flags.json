@@ -74,5 +74,9 @@
     "enable-live-proving": {
         "title": "Enable Live Proving",
         "description": "Enable the experience of a user with a live proving account."
-    }
+    },
+    "enable-client-fido2": {
+        "title": "Enable Client Fido2",
+        "description": "Enable the Fido2 PIN replacement in Client."
+    }    
 }
