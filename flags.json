@@ -27,6 +27,10 @@
         "title": "Enable Kratos Prototype",
         "description": "Enables Ory Kratos Prototype for dev access."
     },
+    "enable-kratos-personas": {
+        "title": "Enable Kratos Personas",
+        "description": "Enables identities via persona."
+    },
     "enable-assisted-onboarding": {
         "title": "Enable Assisted Onboarding",
         "description": "Enables assisted onboarding prompts."
