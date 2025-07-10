@@ -98,5 +98,9 @@
     "enable-linkless-onboarding": {
         "title": "Enable Linkless Onboarding",
         "description": "Enable linkless onboarding flow in the client app."
+    },
+    "enable-help-id-verification": {
+        "title": "Enable Help (ID & Verification)",
+        "description": "Enable help (ID & Verification) menu item and route in the client app."
     }
 }
