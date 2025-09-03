@@ -95,10 +95,6 @@
         "title": "Enable Provider Iframe",
         "description": "Enable the provider iframe."
     },
-    "use-local-provider-iframe": {
-        "title": "Use Local Provider Iframe",
-        "description": "Use the local provider iframe instead of dev."
-    },
     "enable-linkless-onboarding": {
         "title": "Enable Linkless Onboarding",
         "description": "Enable linkless onboarding flow in the client app."
