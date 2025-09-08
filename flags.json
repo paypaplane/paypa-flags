@@ -95,6 +95,10 @@
         "title": "Enable Provider Iframe",
         "description": "Enable the provider iframe."
     },
+    "enable-provider-iframe-logs": {
+        "title": "Enable Provider Iframe Logs",
+        "description": "Enable logging for the provider iframe."
+    },
     "enable-linkless-onboarding": {
         "title": "Enable Linkless Onboarding",
         "description": "Enable linkless onboarding flow in the client app."
