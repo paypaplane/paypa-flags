@@ -106,5 +106,9 @@
     "enable-help-id-verification": {
         "title": "Enable Help (ID & Verification)",
         "description": "Enable help (ID & Verification) menu item and route in the client app."
+    },
+    "enable-simulate-payto-mandate": {
+        "title": "Enable Simulate PayTo Mandate",
+        "description": "Enable customer actions buttons for simulate payto mandate in Brian."
     }
 }
