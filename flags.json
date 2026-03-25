@@ -106,5 +106,9 @@
     "enable-help-id-verification": {
         "title": "Enable Help (ID & Verification)",
         "description": "Enable help (ID & Verification) menu item and route in the client app."
+    },
+    "enable-customer-support-notes": {
+        "title": "Enable Customer Support Notes",
+        "description": "Enable the ability for support users to capture conversations / key context about customers."
     }
 }
