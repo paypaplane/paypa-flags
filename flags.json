@@ -99,6 +99,10 @@
         "title": "Enable Provider Iframe Logs",
         "description": "Enable logging for the provider iframe."
     },
+    "enable-vue-query-logs": {
+        "title": "Enable Vue Query Logs",
+        "description": "Enable logging for Vue Query."
+    },
     "enable-linkless-onboarding": {
         "title": "Enable Linkless Onboarding",
         "description": "Enable linkless onboarding flow in the client app."
