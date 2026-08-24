@@ -107,6 +107,10 @@
         "title": "Enable Linkless Onboarding",
         "description": "Enable linkless onboarding flow in the client app."
     },
+    "enable-incomplete-profile-check": {
+        "title": "Enable Incomplete Profile Check",
+        "description": "Enable incomplete profile check in the client app."
+    },
     "enable-help-id-verification": {
         "title": "Enable Help (ID & Verification)",
         "description": "Enable help (ID & Verification) menu item and route in the client app."
