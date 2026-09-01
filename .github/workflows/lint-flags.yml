@@ -1,0 +1,23 @@
+name: Lint flags.json
+
+on:
+  push:
+    paths:
+      - flags.json
+      - scripts/lint-flags.js
+      - .github/workflows/lint-flags.yml
+  pull_request:
+    paths:
+      - flags.json
+      - scripts/lint-flags.js
+      - .github/workflows/lint-flags.yml
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/lint-flags.js
