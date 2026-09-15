@@ -30,3 +30,9 @@ Example:
 
 - Use `enable-*` for flags that turn a feature on.
 - Keep descriptions specific about scope (e.g. which routes, components, or user types are affected) and any fallback behavior when disabled.
+
+## Privacy policy
+
+[`PRIVACY.md`](./PRIVACY.md) is the privacy policy for the Paypa Flags browser extension that reads
+this registry. It is hosted here because this repository is public, which the Microsoft Edge Add-ons
+listing requires — the extension's own repository is private.
