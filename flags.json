@@ -118,5 +118,9 @@
     "enable-customer-support-notes": {
         "title": "Enable Customer Support Notes",
         "description": "Enable the ability for support users to capture conversations / key context about customers."
+    },
+    "enable-permission-answers": {
+        "title": "Enable Permission Answers",
+        "description": "Admin app menus and buttons follow the permissions read service's answers instead of the user's permission names. When off, the admin app keeps today's behaviour and logs each difference to the browser console."
     }
 }
